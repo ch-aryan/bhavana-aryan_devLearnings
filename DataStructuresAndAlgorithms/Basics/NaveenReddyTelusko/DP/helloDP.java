@@ -1,7 +1,7 @@
 package DataStructuresAndAlgorithms.Basics.NaveenReddyTelusko.DP;
 
-public class dp {
+public class helloDP {
     public static void main(String[] args) {
-        System.out.println("hello dp added");
+        System.out.println("Aryan another commit");
     }
 }
